@@ -17,6 +17,8 @@
 </br>
 
 ### 시스템 아키텍쳐
+</br>
+
 ![img1](./img/system_architecture.png) <br> <br>
 
 </br>
